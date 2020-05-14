@@ -1,0 +1,6 @@
+[package]
+name = "FourXFour"
+version = "0.1.0"
+authors = ["Kevin <kevin.lanik@gmail.com>"]
+
+[dependencies]
